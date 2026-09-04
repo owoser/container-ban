@@ -1,0 +1,311 @@
+{
+    find_programver = {
+        ["D:\\zig\\zig-x86_64-windows-0.16.0\\zig-x86_64-windows-0.16.0\\zig.exe"] = "0.16.0",
+        ["C:\\Program Files\\dotnet\\dotnet.exe"] = "10.0.400"
+    },
+    ["find_program_clang-cl_arch_x64_plat_windows_checktoolld"] = {
+        ["link.exe"] = [[D:\vs\VC\Tools\MSVC\14.51.36231\bin\HostX64\x64\link.exe]]
+    },
+    ["find_program_clang-cl_arch_x64_plat_windows_checktoolcxx"] = {
+        ["clang-cl"] = [[D:\vs\VC\Tools\Llvm\x64\bin\clang-cl]]
+    },
+    find_program_fetch_package_xmake = {
+        ninja = false,
+        cmake = false,
+        levibuildscript = false
+    },
+    ["lib.detect.has_flags"] = {
+        ["windows_x64_d:\\vs\\vc\\tools\\llvm\\x64\\bin\\clang-cl.exe__cxx_cxflags_--target=x86_64-pc-windows-msvc_/utf-8"] = true,
+        ["windows_x64_d:\\vs\\vc\\tools\\llvm\\x64\\bin\\clang-cl.exe__cxx_cxflags_--target=x86_64-pc-windows-msvc_/w44289"] = true,
+        ["windows_x64_d:\\vs\\vc\\tools\\llvm\\x64\\bin\\clang-cl.exe__cxx_cxflags_--target=x86_64-pc-windows-msvc_/w44265"] = true,
+        ["windows_x64_d:\\vs\\vc\\tools\\llvm\\x64\\bin\\clang-cl.exe__cxx_cxflags_--target=x86_64-pc-windows-msvc_-Wno-c++2b-extensions"] = true,
+        ["windows_x64_d:\\vs\\vc\\tools\\llvm\\x64\\bin\\clang-cl.exe__cxx_cxflags_--target=x86_64-pc-windows-msvc_/W4"] = true,
+        ["windows_x64_d:\\vs\\vc\\tools\\llvm\\x64\\bin\\clang-cl.exe__cxx_cxflags_--target=x86_64-pc-windows-msvc_-Wno-potentially-evaluated-expression"] = true,
+        ["windows_x64_d:\\vs\\vc\\tools\\llvm\\x64\\bin\\clang-cl.exe__cxx_cxflags_--target=x86_64-pc-windows-msvc_/w44296"] = true,
+        ["windows_x64_d:\\vs\\vc\\tools\\llvm\\x64\\bin\\clang-cl.exe__cxx_cxflags_--target=x86_64-pc-windows-msvc_/EHa"] = true,
+        ["windows_x64_d:\\vs\\vc\\tools\\llvm\\x64\\bin\\clang-cl.exe__cxx_cxflags_--target=x86_64-pc-windows-msvc_/w45204"] = true,
+        ["windows_x64_d:\\vs\\vc\\tools\\llvm\\x64\\bin\\clang-cl.exe__cxx_cxflags_--target=x86_64-pc-windows-msvc_-Wno-invalid-offsetof"] = true,
+        ["windows_x64_d:\\vs\\vc\\tools\\llvm\\x64\\bin\\clang-cl.exe__cxx__--target=x86_64-pc-windows-msvc_-O2"] = true,
+        ["windows_x64_d:\\vs\\vc\\tools\\llvm\\x64\\bin\\clang-cl.exe__cxx_cxflags_--target=x86_64-pc-windows-msvc_cl_external_includedir"] = true,
+        ["windows_x64_d:\\vs\\vc\\tools\\llvm\\x64\\bin\\clang-cl.exe__cxx_cxflags_--target=x86_64-pc-windows-msvc_/w45263"] = true,
+        ["windows_x64_d:\\vs\\vc\\tools\\llvm\\x64\\bin\\clang-cl.exe__cxx_cxflags_--target=x86_64-pc-windows-msvc_/w44738"] = true,
+        ["windows_x64_d:\\vs\\vc\\tools\\llvm\\x64\\bin\\clang-cl.exe__cxx_cxflags_--target=x86_64-pc-windows-msvc_-Wno-pragma-system-header-outside-header"] = true,
+        ["windows_x64_d:\\vs\\vc\\tools\\llvm\\x64\\bin\\clang-cl.exe__cxx_cxflags_--target=x86_64-pc-windows-msvc_/EHs"] = true,
+        ["windows_x64_d:\\vs\\vc\\tools\\llvm\\x64\\bin\\clang-cl.exe__cxx_cxflags_--target=x86_64-pc-windows-msvc_-Wno-microsoft-include"] = true,
+        ["windows_x64_d:\\vs\\vc\\tools\\llvm\\x64\\bin\\clang-cl.exe__cxx_cxflags_--target=x86_64-pc-windows-msvc_-Wno-ignored-qualifiers"] = true,
+        ["windows_x64_d:\\vs\\vc\\tools\\llvm\\x64\\bin\\clang-cl.exe__cxx_cxflags_--target=x86_64-pc-windows-msvc_-std:c++20"] = true,
+        ["windows_x64_d:\\vs\\vc\\tools\\msvc\\14.51.36231\\bin\\hostx64\\x64\\link.exe__sh_shflags_-nologo -machine:x64_/DELAYLOAD:bedrock_runtime.dll"] = true,
+        ["windows_x64_d:\\vs\\vc\\tools\\llvm\\x64\\bin\\clang-cl.exe__cxx_cxxflags_--target=x86_64-pc-windows-msvc_/utf-8"] = true,
+        ["windows_x64_d:\\vs\\vc\\tools\\llvm\\x64\\bin\\clang-cl.exe__cxx_cxflags_--target=x86_64-pc-windows-msvc_-FS -Fd"] = true,
+        ["windows_x64_d:\\vs\\vc\\tools\\llvm\\x64\\bin\\clang-cl.exe__cxx_cxflags_--target=x86_64-pc-windows-msvc_clang_mmd"] = true,
+        ["windows_x64_d:\\vs\\vc\\tools\\llvm\\x64\\bin\\clang-cl.exe__cxx_cxflags_--target=x86_64-pc-windows-msvc_-DNDEBUG"] = true,
+        ["windows_x64_d:\\vs\\vc\\tools\\llvm\\x64\\bin\\clang-cl.exe__cxx_cxflags_--target=x86_64-pc-windows-msvc_-Wno-overloaded-virtual"] = true,
+        ["windows_x64_d:\\vs\\vc\\tools\\llvm\\x64\\bin\\clang-cl.exe__cxx_cxflags_--target=x86_64-pc-windows-msvc_-Wno-missing-field-initializers"] = true,
+        ["windows_x64_d:\\vs\\vc\\tools\\llvm\\x64\\bin\\clang-cl.exe__cxx_cxflags_--target=x86_64-pc-windows-msvc_-Wno-microsoft-cast"] = true
+    },
+    find_package_windows_x64_fetch_package_xmake = {
+        ["xmake::symbolprovider_8ef9d781a7854895b90a561f7f9be0ea_release_v1.3.0_external"] = {
+            links = {
+                "SymbolProvider"
+            },
+            linkdirs = {
+                [[C:\Users\wanan\AppData\Local\.xmake\packages\s\symbolprovider\v1.3.0\8ef9d781a7854895b90a561f7f9be0ea\lib]]
+            },
+            version = "v1.3.0",
+            libfiles = {
+                [[C:\Users\wanan\AppData\Local\.xmake\packages\s\symbolprovider\v1.3.0\8ef9d781a7854895b90a561f7f9be0ea\lib\SymbolProvider.lib]]
+            },
+            static = true
+        },
+        ["xmake::bedrockdata_9014af7814de4506a54c40375884bbf3_release_v26.20.5-server.7_external"] = {
+            version = "v26.20.5-server.7"
+        },
+        ["xmake::magic_enum_03e2990032db4ea08102d17ff8a57da7_release_v0.9.7_external"] = {
+            sysincludedirs = {
+                [[C:\Users\wanan\AppData\Local\.xmake\packages\m\magic_enum\v0.9.7\03e2990032db4ea08102d17ff8a57da7\include]],
+                [[C:\Users\wanan\AppData\Local\.xmake\packages\m\magic_enum\v0.9.7\03e2990032db4ea08102d17ff8a57da7\include\magic_enum]]
+            },
+            license = "MIT",
+            version = "v0.9.7"
+        },
+        ["xmake::parallel-hashmap_47b4dd3f84f34e9d98b4cde1eedee54d_release_v1.3.12_external"] = {
+            sysincludedirs = {
+                [[C:\Users\wanan\AppData\Local\.xmake\packages\p\parallel-hashmap\v1.3.12\47b4dd3f84f34e9d98b4cde1eedee54d\include]]
+            },
+            license = "Apache-2.0",
+            version = "v1.3.12"
+        },
+        ["xmake::entt_18a7c66ceb6a4245aa7ca5b637cbf536_release_v3.15.0_external"] = {
+            sysincludedirs = {
+                [[C:\Users\wanan\AppData\Local\.xmake\packages\e\entt\v3.15.0\18a7c66ceb6a4245aa7ca5b637cbf536\include]]
+            },
+            license = "MIT",
+            version = "v3.15.0"
+        },
+        ["xmake::concurrentqueue_0cd923cdfb6a4256954a994422b17de9_release_v1.0.4_external"] = {
+            sysincludedirs = {
+                [[C:\Users\wanan\AppData\Local\.xmake\packages\c\concurrentqueue\v1.0.4\0cd923cdfb6a4256954a994422b17de9\include]],
+                [[C:\Users\wanan\AppData\Local\.xmake\packages\c\concurrentqueue\v1.0.4\0cd923cdfb6a4256954a994422b17de9\include\concurrentqueue\moodycamel]]
+            },
+            license = "BSD",
+            version = "v1.0.4"
+        },
+        ["xmake::pcg_cpp_6c550fbfc1bb49fbbed872829f6090b0_release_v1.0.0_external"] = {
+            version = "v1.0.0",
+            sysincludedirs = {
+                [[C:\Users\wanan\AppData\Local\.xmake\packages\p\pcg_cpp\v1.0.0\6c550fbfc1bb49fbbed872829f6090b0\include]]
+            }
+        },
+        ["xmake::rapidjson_5aec2755925a45d9974d95d2cb7038b1_release_2025.02.05_external"] = {
+            sysincludedirs = {
+                [[C:\Users\wanan\AppData\Local\.xmake\packages\r\rapidjson\2025.02.05\5aec2755925a45d9974d95d2cb7038b1\include]]
+            },
+            license = "MIT",
+            version = "2025.02.05"
+        },
+        ["xmake::snappy_b3244272357b4994abb43dc0aa939d28_release_1.2.2_external"] = {
+            links = {
+                "snappy"
+            },
+            linkdirs = {
+                [[C:\Users\wanan\AppData\Local\.xmake\packages\s\snappy\1.2.2\b3244272357b4994abb43dc0aa939d28\lib]]
+            },
+            version = "1.2.2",
+            static = true,
+            libfiles = {
+                [[C:\Users\wanan\AppData\Local\.xmake\packages\s\snappy\1.2.2\b3244272357b4994abb43dc0aa939d28\lib\snappy.lib]]
+            },
+            sysincludedirs = {
+                [[C:\Users\wanan\AppData\Local\.xmake\packages\s\snappy\1.2.2\b3244272357b4994abb43dc0aa939d28\include]]
+            }
+        },
+        ["xmake::debug_assert_e3515434506a445792c1c83600bcf899_release_v1.3.4_external"] = {
+            sysincludedirs = {
+                [[C:\Users\wanan\AppData\Local\.xmake\packages\d\debug_assert\v1.3.4\e3515434506a445792c1c83600bcf899\include]]
+            },
+            license = "zlib",
+            version = "v1.3.4"
+        },
+        ["xmake::nlohmann_json_ab8414047c424750bdc9d7a0ff7afdde_release_v3.12.0_external"] = {
+            sysincludedirs = {
+                [[C:\Users\wanan\AppData\Local\.xmake\packages\n\nlohmann_json\v3.12.0\ab8414047c424750bdc9d7a0ff7afdde\include]]
+            },
+            license = "MIT",
+            version = "v3.12.0"
+        },
+        ["xmake::levilamina_2126eb245cc742bc9df5100b2f6d6bb4_release_26.20.7_external"] = {
+            shared = true,
+            version = "26.20.7",
+            defines = {
+                "ENTT_PACKED_PAGE=128",
+                "ENTT_SPARSE_PAGE=2048",
+                "ENTT_NO_MIXIN",
+                "LL_PLAT_S"
+            },
+            linkdirs = {
+                [[C:\Users\wanan\AppData\Local\.xmake\packages\l\levilamina\26.20.7\2126eb245cc742bc9df5100b2f6d6bb4\lib]]
+            },
+            links = {
+                "LeviLamina"
+            },
+            static = true,
+            libfiles = {
+                [[C:\Users\wanan\AppData\Local\.xmake\packages\l\levilamina\26.20.7\2126eb245cc742bc9df5100b2f6d6bb4\lib\LeviLamina.lib]],
+                [[C:\Users\wanan\AppData\Local\.xmake\packages\l\levilamina\26.20.7\2126eb245cc742bc9df5100b2f6d6bb4\bin\LeviLamina.dll]],
+                [[C:\Users\wanan\AppData\Local\.xmake\packages\l\levilamina\26.20.7\2126eb245cc742bc9df5100b2f6d6bb4\bin\PreLoader.dll]]
+            },
+            sysincludedirs = {
+                [[C:\Users\wanan\AppData\Local\.xmake\packages\l\levilamina\26.20.7\2126eb245cc742bc9df5100b2f6d6bb4\include]]
+            }
+        },
+        ["xmake::leveldb_2532d000dc9d47cbb618c80ba0e6d806_release_1.23_external"] = {
+            links = {
+                "leveldb"
+            },
+            version = "1.23",
+            linkdirs = {
+                [[C:\Users\wanan\AppData\Local\.xmake\packages\l\leveldb\1.23\2532d000dc9d47cbb618c80ba0e6d806\lib]]
+            },
+            sysincludedirs = {
+                [[C:\Users\wanan\AppData\Local\.xmake\packages\l\leveldb\1.23\2532d000dc9d47cbb618c80ba0e6d806\include]]
+            },
+            license = "BSD-3-Clause",
+            libfiles = {
+                [[C:\Users\wanan\AppData\Local\.xmake\packages\l\leveldb\1.23\2532d000dc9d47cbb618c80ba0e6d806\lib\leveldb.lib]]
+            },
+            static = true
+        },
+        ["xmake::type_safe_4b33a9a5c8154bd58b7d4007150f50b7_release_v0.2.4_external"] = {
+            sysincludedirs = {
+                [[C:\Users\wanan\AppData\Local\.xmake\packages\t\type_safe\v0.2.4\4b33a9a5c8154bd58b7d4007150f50b7\include]]
+            },
+            license = "MIT",
+            version = "v0.2.4"
+        },
+        ["xmake::pfr_45e5102591a649fda279e67eaf92482a_release_2.1.1_external"] = {
+            version = "2.1.1",
+            sysincludedirs = {
+                [[C:\Users\wanan\AppData\Local\.xmake\packages\p\pfr\2.1.1\45e5102591a649fda279e67eaf92482a\include]]
+            }
+        },
+        ["xmake::expected-lite_36ca3aab48a04473a0b2d34e01875b34_release_v0.8.0_external"] = {
+            sysincludedirs = {
+                [[C:\Users\wanan\AppData\Local\.xmake\packages\e\expected-lite\v0.8.0\36ca3aab48a04473a0b2d34e01875b34\include]]
+            },
+            license = "BSL-1.0",
+            version = "v0.8.0"
+        },
+        ["xmake::stb_5add428b704648039c039d4d74bed865_release_2025.03.14_external"] = {
+            version = "2025.03.14",
+            sysincludedirs = {
+                [[C:\Users\wanan\AppData\Local\.xmake\packages\s\stb\2025.03.14\5add428b704648039c039d4d74bed865\include]],
+                [[C:\Users\wanan\AppData\Local\.xmake\packages\s\stb\2025.03.14\5add428b704648039c039d4d74bed865\include\stb]]
+            }
+        },
+        ["xmake::glm_18615f0387cd4e2ab2e9ea9965afc784_release_1.0.1_external"] = {
+            sysincludedirs = {
+                [[C:\Users\wanan\AppData\Local\.xmake\packages\g\glm\1.0.1\18615f0387cd4e2ab2e9ea9965afc784\include]]
+            },
+            license = "MIT",
+            version = "1.0.1"
+        },
+        ["xmake::prelink_cbfec237777e4c5bbf3ce45b82fe7e48_release_v0.7.1_external"] = {
+            version = "v0.7.1"
+        },
+        ["xmake::fmt_ee1902dd7cff4195a287949f80dbce70_release_11.2.0_external"] = {
+            links = {
+                "fmt"
+            },
+            sysincludedirs = {
+                [[C:\Users\wanan\AppData\Local\.xmake\packages\f\fmt\11.2.0\ee1902dd7cff4195a287949f80dbce70\include]]
+            },
+            cxxflags = "/utf-8",
+            linkdirs = {
+                [[C:\Users\wanan\AppData\Local\.xmake\packages\f\fmt\11.2.0\ee1902dd7cff4195a287949f80dbce70\lib]]
+            },
+            version = "11.2.0",
+            static = true,
+            libfiles = {
+                [[C:\Users\wanan\AppData\Local\.xmake\packages\f\fmt\11.2.0\ee1902dd7cff4195a287949f80dbce70\lib\fmt.lib]]
+            },
+            license = "MIT"
+        },
+        ["xmake::gsl_cdcbe579518f475dbbe3954d5b394a71_release_v4.2.0_external"] = {
+            sysincludedirs = {
+                [[C:\Users\wanan\AppData\Local\.xmake\packages\g\gsl\v4.2.0\cdcbe579518f475dbbe3954d5b394a71\include]]
+            },
+            license = "MIT",
+            version = "v4.2.0"
+        }
+    },
+    find_program = {
+        curl = [[C:\Program Files\xmake\winenv\bin\curl]],
+        ["cl.exe"] = [[D:\vs\VC\Tools\MSVC\14.51.36231\bin\HostX64\x64\cl.exe]],
+        ["clang-cl.exe"] = [[D:\vs\VC\Tools\Llvm\x64\bin\clang-cl.exe]],
+        ["D:\\vs\\VC\\Tools\\MSVC\\14.51.36231\\bin\\HostX64\\x64\\link.exe"] = [[d:\vs\vc\tools\msvc\14.51.36231\bin\hostx64\x64\link.exe]],
+        git = [[D:\Git\cmd\git.exe]],
+        nim = false,
+        zig = [[D:\zig\zig-x86_64-windows-0.16.0\zig-x86_64-windows-0.16.0\zig.exe]],
+        ["D:\\vs\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl"] = [[d:\vs\vc\tools\llvm\x64\bin\clang-cl.exe]],
+        ["7z"] = [[C:\Program Files\xmake\winenv\bin\7z]],
+        gzip = false,
+        dotnet = [[C:\Program Files\dotnet\dotnet.exe]]
+    },
+    ["find_program_clang-cl_arch_x64_plat_windows_checktoolsh"] = {
+        ["link.exe"] = [[D:\vs\VC\Tools\MSVC\14.51.36231\bin\HostX64\x64\link.exe]]
+    },
+    ["detect.sdks.find_dotnet"] = {
+        dotnet = {
+            sdkver = "10.0.400",
+            bindir = [[C:\Program Files\dotnet]],
+            sdks = {
+                {
+                    directory = [[C:\Program Files\dotnet\sdk\10.0.400]],
+                    version = "10.0.400"
+                }
+            },
+            runtimes = {
+                {
+                    name = "Microsoft.AspNetCore.App",
+                    version = "8.0.30"
+                },
+                {
+                    name = "Microsoft.AspNetCore.App",
+                    version = "10.0.11"
+                },
+                {
+                    name = "Microsoft.NETCore.App",
+                    version = "8.0.21"
+                },
+                {
+                    name = "Microsoft.NETCore.App",
+                    version = "8.0.30"
+                },
+                {
+                    name = "Microsoft.NETCore.App",
+                    version = "10.0.5"
+                },
+                {
+                    name = "Microsoft.NETCore.App",
+                    version = "10.0.11"
+                },
+                {
+                    name = "Microsoft.WindowsDesktop.App",
+                    version = "8.0.30"
+                },
+                {
+                    name = "Microsoft.WindowsDesktop.App",
+                    version = "10.0.11"
+                }
+            },
+            netfxsdk = {
+                libdir = [[C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Lib]],
+                sdkver = "4.8",
+                sdkdir = [[C:\Program Files (x86)\Windows Kits\NETFXSDK]],
+                includedir = [[C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include]]
+            },
+            sdkdir = [[C:\Program Files\dotnet\sdk\10.0.400]],
+            version = "10.0.400"
+        }
+    }
+}

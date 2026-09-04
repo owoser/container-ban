@@ -1,0 +1,28 @@
+{
+    target_type = {
+        __sourceinfo_showmenu = { },
+        __scriptdir = [[C:\Users\wanan\Desktop\mod\fix\container-ban]],
+        __sourceinfo_values = {
+            client = {
+                file = [[.\xmake.lua]],
+                line = 8
+            },
+            server = {
+                file = [[.\xmake.lua]],
+                line = 8
+            }
+        },
+        __sourceinfo_default = {
+            server = {
+                file = [[.\xmake.lua]],
+                line = 6
+            }
+        },
+        showmenu = true,
+        values = {
+            "server",
+            "client"
+        },
+        default = "server"
+    }
+}
