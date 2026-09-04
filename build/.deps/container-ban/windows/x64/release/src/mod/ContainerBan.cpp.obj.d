@@ -1,8 +1,11 @@
 {
+    depfiles_format = "gcc",
     files = {
         [[src\mod\ContainerBan.cpp]]
     },
-    depfiles_format = "gcc",
+    depfiles = "build\\.objs\\container-ban\\windows\\x64\\release\\src\\mod\\ContainerBan.cpp.obj: \\\
+  src\\mod\\ContainerBan.cpp src\\mod\\ContainerBan.h\
+",
     values = {
         [[D:\vs\VC\Tools\Llvm\x64\bin\clang-cl]],
         {
@@ -83,8 +86,5 @@
             "-Wno-pragma-system-header-outside-header",
             "-DNDEBUG"
         }
-    },
-    depfiles = "build\\.objs\\container-ban\\windows\\x64\\release\\src\\mod\\ContainerBan.cpp.obj: \\\
-  src\\mod\\ContainerBan.cpp src\\mod\\ContainerBan.h\
-"
+    }
 }

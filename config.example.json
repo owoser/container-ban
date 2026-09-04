@@ -1,0 +1,27 @@
+{
+  "rules": [
+    {
+      "label": "bundle -> dispenser/dropper (default)",
+      "items": ["minecraft:bundle", "*_bundle"],
+      "containers": ["Dispenser", "Dropper"],
+      "player": true,
+      "auto": true,
+      "logPlayer": true,
+      "logAuto": true
+    },
+    {
+      "label": "example: netherite ingot cannot enter chest-like containers",
+      "items": ["minecraft:netherite_ingot"],
+      "containers": ["Container"],
+      "player": true,
+      "auto": true
+    },
+    {
+      "label": "example: everything with tnt in the name cannot enter crafters",
+      "items": ["*tnt*"],
+      "containers": ["Crafter"],
+      "player": true,
+      "auto": true
+    }
+  ]
+}
